@@ -1,6 +1,7 @@
 import numpy as np
 
 
+
 class Matrizes():
     def __init__(self):
         self.alfabeto = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5, 'f': 6, 'g': 7, 'h': 8, 'i': 9, 'j': 10,
@@ -58,7 +59,7 @@ class Matrizes():
         print(f"\n")
         print(f"matriz criptografada: \n {self.matriz_criptografada} ")
         print(f"\n")
-        print(f"a sua palavra criptografada é {self.palavra_criptografada.upper()}")
+        print(f"a sua palavra criptografada é: {self.palavra_criptografada.upper()}")
         
 
 
