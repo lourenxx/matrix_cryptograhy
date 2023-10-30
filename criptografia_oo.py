@@ -62,8 +62,7 @@ class Matrizes():
         print(f"a sua palavra criptografada é: {self.palavra_criptografada.upper()}")
         
 
-
-
+matriz = Matrizes()
 
 
 

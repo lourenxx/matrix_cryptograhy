@@ -1,7 +1,5 @@
-from criptografia_oo import Matrizes
+from criptografia_oo import matriz
 
-
-matriz = Matrizes()
 
 palavra = matriz.escrever_matriz()
 matriz.preencher_matriz(palavra)
