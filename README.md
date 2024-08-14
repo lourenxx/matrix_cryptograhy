@@ -2,6 +2,6 @@
 
 > Status: Concluded
 
-Matrix calculator' software made in Python Object Oriented. This code was created for Linear Algebra project, on Salvador Arena College, that's why the variable, classes and function were wrote all in portuguese.
+The matrix calculator software is written in Python using Object-Oriented Programming. This code was created for a Linear Algebra project at Salvador Arena College, which is why the variables, classes, and functions are all written in Portuguese.
 
-You can clone this repo and test this code.
+You can clone this repository and test the code.
